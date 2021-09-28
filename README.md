@@ -2,7 +2,7 @@
 
 ## Overview
 
-A program to record and repeat moves of your mouse. Also creates a report of recording based on main modules -- $pynput$ and **pyautogui** 
+A program to record and repeat moves of your mouse. Also creates a report of recording based on main modules -- **pynput** and **pyautogui** 
 
 When you're recording:
 1. Launch recording.py. 
