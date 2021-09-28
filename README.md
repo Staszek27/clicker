@@ -8,7 +8,7 @@ When you're recording:
 1. Launch recording.py. 
 2. Make moves with your mouse. WARNING! Don't use your scroll button!
 3. Go with your mouse to left-up corner of your screen. Then the program will automatically stop (or just force your program to stop).
-4. The report successfully will be created in $FILENAME$ csv-file.
+4. The report successfully will be created in **FILENAME** csv-file.
 
 When you're repeating moves.
 1. Be sure testing.csv was generated before by you. WARNING! Be sure the scroll action isn't in that, it could stop your program automatically.
