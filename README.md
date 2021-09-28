@@ -12,7 +12,7 @@ When you're recording:
 
 When you're repeating moves.
 1. Be sure testing.csv was generated before by you. WARNING! Be sure the scroll action isn't in that, it could stop your program automatically.
-2. Set flag *RANDOMIZE_MOVES* in global_lib.py. Depeneds on this flag, the moves from the report will be a little be seem to be randomized or not.
+2. Set flag **RANDOMIZE_MOVES** in global_lib.py. Depeneds on this flag, the moves from the report will be a little be seem to be randomized or not.
 3. Launch DataAgent.py. 
 4. Use scroll (on your mouse) to stop a program. That's why you can't insert this operation in recording report. It's just demo version of a final program.
 
