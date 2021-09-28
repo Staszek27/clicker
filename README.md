@@ -22,7 +22,7 @@ It also provides mode, where you are able to randomize a little bit moves of you
 
 Firstly you need to give input acces for your python and terminal in "Input Monitoring" setting (see screen below).
 
-[](https://ibb.co/5WJ9MpM)
+![a](https://ibb.co/5WJ9MpM)
 
 Secondary you need to create proper enviroment. Use
 
