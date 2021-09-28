@@ -1,4 +1,4 @@
-##### auto-clicker for MAC OS
+# auto-clicker for MAC OS
 
 ## Overview
 
